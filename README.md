@@ -69,10 +69,10 @@ The AI agent behaves like a **Sales Development Representative (SDR)** and can:
 
 ```sh
 # Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <https://github.com/AnishaDhanwani>
 
 # Navigate to project directory
-cd <PROJECT_NAME>
+cd <sales-scout-ai>
 
 # Install dependencies
 npm install
