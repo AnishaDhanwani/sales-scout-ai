@@ -6,7 +6,7 @@ export const mockLeads: Lead[] = [
     name: "Sarah Chen",
     email: "sarah.chen@techvault.io",
     company: "TechVault",
-    title: "VP of Engineering",
+    title: "VP of Engineering",   
     companySize: "200-500",
     industry: "SaaS",
     score: 92,
